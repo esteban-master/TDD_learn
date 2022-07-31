@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1659219719593" clover="3.2.0">
-  <project timestamp="1659219719593" name="All files">
+<coverage generated="1659232179016" clover="3.2.0">
+  <project timestamp="1659232179016" name="All files">
     <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3" elements="22" coveredelements="22" complexity="0" loc="15" ncloc="15" packages="1" files="1" classes="1"/>
-    <file name="Game.ts" path="/home/esteban/Escritorio/Javascript/Game.ts">
+    <file name="Game.ts" path="/home/esteban/Escritorio/Javascript/src/BowlingGame/Game.ts">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
       <line num="2" count="5" type="stmt"/>
       <line num="3" count="5" type="stmt"/>

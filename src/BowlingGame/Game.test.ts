@@ -34,7 +34,6 @@ describe('Test Game', () => {
     game.roll(2)
     game.roll(3)
     rollMany(16,0)
-    console.log(game)
     expect(game.score()).toBe(20)
   })
 
